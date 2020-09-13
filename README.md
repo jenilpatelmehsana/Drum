@@ -1,2 +1,2 @@
 # Drum
-This is a clone project from online course.
+Virtual Drum that you can play on your fingers.
